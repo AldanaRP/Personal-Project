@@ -11,10 +11,10 @@ I'll be using:
 - Analytics: Power BI
 
 Phases:
-1- Requirements Analysis
-2- System Design & Architecture
-3- Backend Implementation
-4- Frontend Integration
-5- Testing
-6- Deployment
-7- Analytics & Reporting
+1. Requirements Analysis
+2. System Design & Architecture
+3. Backend Implementation
+4. Frontend Integration
+5. Testing
+6. Deployment
+7. Analytics & Reporting
