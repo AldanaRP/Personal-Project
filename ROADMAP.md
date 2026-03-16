@@ -15,18 +15,18 @@
 - [x] Install PostgreSQL
 
 ## Project Structure
-- [ ] Add README.md
-- [ ] Create clean folder structure
-- [ ] Separate main, models, schemas, database config
-- [ ] Configure .gitignore properly
+- [X] Add README.md
+- [X] Create clean folder structure
+- [X] Separate main, models, schemas, database config
+- [X] Configure .gitignore properly
 
 ---
 
 # Phase 1 – Database Layer (Core Foundation)
 
 ## Database Connection
-- [ ] Configure SQLAlchemy
-- [ ] Connect FastAPI to PostgreSQL
+- [X] Configure SQLAlchemy
+- [X] Connect FastAPI to PostgreSQL
 - [ ] Create session dependency
 - [ ] Test DB connection
 

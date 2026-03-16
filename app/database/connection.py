@@ -1,0 +1,1 @@
+DATABASE_URL = "postgresql://fastapi_user:password@localhost/personal_project"
