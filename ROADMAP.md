@@ -27,8 +27,8 @@
 ## Database Connection
 - [X] Configure SQLAlchemy
 - [X] Connect FastAPI to PostgreSQL
-- [ ] Create session dependency
-- [ ] Test DB connection
+- [X] Create session dependency
+- [X] Test DB connection
 
 ## User Model
 - [ ] Create tables in database
