@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String
+from sqlalchemy import Column, Integer, String, ForeignKey
 from app.database.base import Base
 
 class Habit(Base):
@@ -9,4 +9,4 @@ class Habit(Base):
     description = Column(String, index=True)
     difficulty = Column(Integer)
 
-    user_id = Column(Integer, ForeignKey("users.id"))
+    user_id = Column(Integer, ForeignKey("users.id"), nullable=False)

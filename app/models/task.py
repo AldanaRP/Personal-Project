@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, Date, Time
+from sqlalchemy import Column, Integer, String, Date, Time, ForeignKey
 from app.database.base import Base
 
 class Task(Base):
@@ -11,3 +11,4 @@ class Task(Base):
     due_time = Column(Time)
 
     user_id = Column(Integer, ForeignKey("users.id"))
+    status_id = Column(Integer, ForeignKey("statuses.id"), nullable=False)

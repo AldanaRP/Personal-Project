@@ -31,7 +31,7 @@
 - [X] Test DB connection
 
 ## User Model
-- [ ] Create tables in database
+- [X] Create tables in database
 - [ ] Verify persistence
 
 Milestone: ✔ I can store and retrieve users from DB
