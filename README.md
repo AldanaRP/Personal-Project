@@ -1,10 +1,9 @@
 # Personal-Project
 This project follows a complete Software Development Life Cycle  — from requirements analysis and system design to implementation, testing, and analytics integration — to strengthen my full-stack and data engineering skills.
 
-The application aims to help students manage their academic responsibilities, habits, and productivity through a centralized platform.
+The application aims to help work teams manage their responsibilities, tasks, and productivity through a centralized platform.
 
-As a student, I often strugle with time management and habit consistency, and I've solved this problem with time focusing apps and habit trackers. Now, with my experience on this matter, I want to make my own version, as an all in one app instead of having it fragmented across planners, notes apps and others.
-In other words, this system aims to integrate planning, habit tracking, focus sessions, and productivity analytics into a single application.
+This project is oriented toward work management within teams. The goal is to design a system that helps organize tasks, track progress, and improve productivity in a professional environment. Drawing from common challenges in coordinating work, deadlines, and responsibilities, this application aims to centralize these processes into a single platform rather than relying on fragmented tools.
 
 I'll be using: 
 - DEVELOPMENT: Python, FastAPI, React, PostgreSQL.
