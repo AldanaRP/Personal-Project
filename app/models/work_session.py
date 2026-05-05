@@ -1,8 +1,8 @@
 from sqlalchemy import Column, Integer, Date, Time, ForeignKey
 from app.database.base import Base
 
-class Focus_session(Base):
-    __tablename__ ="focus_sessions"
+class Work_session(Base):
+    __tablename__ ="work_sessions"
 
     id = Column(Integer, primary_key=True, index=True)
     start_time = Column(Time)
